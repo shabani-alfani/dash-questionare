@@ -1,0 +1,14 @@
+{
+  "name": "dash-questionare",
+  "version": "1.1.0",
+  "description": "KoboToolbox multi-questionnaire analytics dashboard (read-only API client)",
+  "private": true,
+  "license": "UNLICENSED",
+  "engines": { "node": ">=20.6.0" },
+  "scripts": {
+    "start": "node server.js",
+    "sync:once": "node server.js --sync-once",
+    "test": "node --test tests/*.test.js",
+    "check": "node --check server.js && node --check multiform_backend.js && node --check multiform.js && node --check kobo_client.js && node --check encrypted_cache.js"
+  }
+}

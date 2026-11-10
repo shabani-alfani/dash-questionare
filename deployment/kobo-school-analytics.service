@@ -1,0 +1,34 @@
+[Unit]
+Description=MoEST Kobo School Analytics Dashboard (elimu.moe.go.tz:8072)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=kobo-analytics
+Group=kobo-analytics
+WorkingDirectory=/var/www/html/kobo-analytics-8072
+Environment=NODE_ENV=production
+EnvironmentFile=/etc/kobo-school-analytics/dashboard.env
+ExecStart=/usr/local/bin/node /var/www/html/kobo-analytics-8072/server.js
+Restart=on-failure
+RestartSec=20
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectKernelModules=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+CapabilityBoundingSet=
+AmbientCapabilities=
+UMask=0077
+MemoryHigh=768M
+MemoryMax=1G
+CPUQuota=70%
+TasksMax=80
+LimitNOFILE=8192
+
+[Install]
+WantedBy=multi-user.target

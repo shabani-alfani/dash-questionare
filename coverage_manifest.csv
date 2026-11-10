@@ -1,0 +1,454 @@
+﻿source_table,column_number_1based,module,module_title,field_label,filled_rows,blank_rows,distinct_nonempty_values,percentage_nonempty
+MKUU WA SHULE DODOSO,1,SYS,Submission Metadata,start,365,0,365,100.0
+MKUU WA SHULE DODOSO,2,SYS,Submission Metadata,end,365,0,365,100.0
+MKUU WA SHULE DODOSO,3,SYS,Submission Metadata,tarehe_ya_ujazaji,365,0,2,100.0
+MKUU WA SHULE DODOSO,4,SYS,Submission Metadata,device_id,365,0,363,100.0
+MKUU WA SHULE DODOSO,5,SYS,Submission Metadata,"DODOSO LA MKUU WA SHULE. Majibu yatolewe kwa kuzingatia rejista za shule, BEMIS/SIS, leja za vitabu na kumbukumbu rasmi. Mdadisi athibitishe hali ya miundombinu kwa kuona.",0,365,0,0.0
+MKUU WA SHULE DODOSO,6,A,Utambulisho wa Shule na Mhojiwa,A1. Mkoa,365,0,22,100.0
+MKUU WA SHULE DODOSO,7,A,Utambulisho wa Shule na Mhojiwa,A2. Halmashauri,365,0,75,100.0
+MKUU WA SHULE DODOSO,8,A,Utambulisho wa Shule na Mhojiwa,Kata (kwa kuchuja orodha ya shule),362,3,281,99.2
+MKUU WA SHULE DODOSO,9,A,Utambulisho wa Shule na Mhojiwa,Taja kata ikiwa haipo kwenye orodha,2,363,2,0.5
+MKUU WA SHULE DODOSO,10,A,Utambulisho wa Shule na Mhojiwa,A3. Jina la shule,365,0,354,100.0
+MKUU WA SHULE DODOSO,11,A,Utambulisho wa Shule na Mhojiwa,A3a. Andika jina la shule ambalo halipo kwenye orodha,8,357,8,2.2
+MKUU WA SHULE DODOSO,12,A,Utambulisho wa Shule na Mhojiwa,A4. Namba ya usajili ya shule,8,357,8,2.2
+MKUU WA SHULE DODOSO,13,A,Utambulisho wa Shule na Mhojiwa,A5. Umiliki wa shule,365,0,2,100.0
+MKUU WA SHULE DODOSO,14,A,Utambulisho wa Shule na Mhojiwa,A6. Ngazi ya shule,365,0,4,100.0
+MKUU WA SHULE DODOSO,15,A,Utambulisho wa Shule na Mhojiwa,"Je, shule hii ya msingi pia inatoa elimu ya awali?",268,97,1,73.4
+MKUU WA SHULE DODOSO,16,A,Utambulisho wa Shule na Mhojiwa,A7. Mazingira ya shule,365,0,3,100.0
+MKUU WA SHULE DODOSO,17,A,Utambulisho wa Shule na Mhojiwa,A8. Aina ya shule,365,0,3,100.0
+MKUU WA SHULE DODOSO,18,A,Utambulisho wa Shule na Mhojiwa,A9. Jinsi ya wanafunzi,365,0,3,100.0
+MKUU WA SHULE DODOSO,19,A,Utambulisho wa Shule na Mhojiwa,A10. Jinsi ya mhojiwa,365,0,2,100.0
+MKUU WA SHULE DODOSO,20,A,Utambulisho wa Shule na Mhojiwa,A11. Wadhifa wako katika shule hii ni upi?,365,0,2,100.0
+MKUU WA SHULE DODOSO,21,A,Utambulisho wa Shule na Mhojiwa,A12. Umekuwa Mkuu wa Shule katika shule hii kwa miaka mingapi?,343,22,21,94.0
+MKUU WA SHULE DODOSO,22,A,Utambulisho wa Shule na Mhojiwa,A13. Umekaimu nafasi ya Mkuu wa Shule katika shule hii kwa muda gani?,22,343,4,6.0
+MKUU WA SHULE DODOSO,23,A,Utambulisho wa Shule na Mhojiwa,A14. Wadhifa wako rasmi kabla ya kukaimu ni upi?,22,343,4,6.0
+MKUU WA SHULE DODOSO,24,A,Utambulisho wa Shule na Mhojiwa,A14. Taja wadhifa mwingine,1,364,1,0.3
+MKUU WA SHULE DODOSO,25,A,Utambulisho wa Shule na Mhojiwa,"A15. Kabla ya shule hii, je, umewahi kuwa Mkuu wa Shule au kukaimu nafasi hiyo katika shule nyingine?",365,0,2,100.0
+MKUU WA SHULE DODOSO,26,A,Utambulisho wa Shule na Mhojiwa,A16. Ni katika shule ngapi nyingine umewahi kuwa Mkuu wa Shule au kukaimu?,200,165,6,54.8
+MKUU WA SHULE DODOSO,27,A,Utambulisho wa Shule na Mhojiwa,A17. Jumla ya miaka ya uzoefu kama Mkuu wa Shule (au Kaimu) katika shule hizo nyingine,200,165,25,54.8
+MKUU WA SHULE DODOSO,28,A,Utambulisho wa Shule na Mhojiwa,A18. GPS ya shule itachukuliwa mwishoni mwa mahojiano.,0,365,0,0.0
+MKUU WA SHULE DODOSO,29,B,Wanafunzi na Miundombinu,Jaza takwimu zilizopo tu; mahitaji na upungufu vitakokotolewa wakati wa uchambuzi. Vigezo vya hali: 4 Nzuri sana; 3 Nzuri; 2 Wastani; 1 Duni.,0,365,0,0.0
+MKUU WA SHULE DODOSO,30,B,Wanafunzi na Miundombinu,B1. Idadi ya wanafunzi na mikondo kwa darasa/kidato. Tumia rejista ya mahudhurio ya mwezi husika; jaza madarasa/vidato vinavyohusika.,0,365,0,0.0
+MKUU WA SHULE DODOSO,31,B,Wanafunzi na Miundombinu,Idadi ya mikondo,272,93,24,74.5
+MKUU WA SHULE DODOSO,32,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,272,93,111,74.5
+MKUU WA SHULE DODOSO,33,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,272,93,106,74.5
+MKUU WA SHULE DODOSO,34,B,Wanafunzi na Miundombinu,b1_awali_jumla,272,93,156,74.5
+MKUU WA SHULE DODOSO,35,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,12,73.4
+MKUU WA SHULE DODOSO,36,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,113,73.4
+MKUU WA SHULE DODOSO,37,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,110,73.4
+MKUU WA SHULE DODOSO,38,B,Wanafunzi na Miundombinu,b1_i_jumla,268,97,152,73.4
+MKUU WA SHULE DODOSO,39,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,12,73.4
+MKUU WA SHULE DODOSO,40,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,108,73.4
+MKUU WA SHULE DODOSO,41,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,109,73.4
+MKUU WA SHULE DODOSO,42,B,Wanafunzi na Miundombinu,b1_ii_jumla,268,97,151,73.4
+MKUU WA SHULE DODOSO,43,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,12,73.4
+MKUU WA SHULE DODOSO,44,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,109,73.4
+MKUU WA SHULE DODOSO,45,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,115,73.4
+MKUU WA SHULE DODOSO,46,B,Wanafunzi na Miundombinu,b1_iii_jumla,268,97,159,73.4
+MKUU WA SHULE DODOSO,47,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,12,73.4
+MKUU WA SHULE DODOSO,48,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,99,73.4
+MKUU WA SHULE DODOSO,49,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,103,73.4
+MKUU WA SHULE DODOSO,50,B,Wanafunzi na Miundombinu,b1_iv_jumla,268,97,146,73.4
+MKUU WA SHULE DODOSO,51,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,11,73.4
+MKUU WA SHULE DODOSO,52,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,82,73.4
+MKUU WA SHULE DODOSO,53,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,93,73.4
+MKUU WA SHULE DODOSO,54,B,Wanafunzi na Miundombinu,b1_v_jumla,268,97,127,73.4
+MKUU WA SHULE DODOSO,55,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,11,73.4
+MKUU WA SHULE DODOSO,56,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,90,73.4
+MKUU WA SHULE DODOSO,57,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,92,73.4
+MKUU WA SHULE DODOSO,58,B,Wanafunzi na Miundombinu,b1_vi_jumla,268,97,130,73.4
+MKUU WA SHULE DODOSO,59,B,Wanafunzi na Miundombinu,Idadi ya mikondo,268,97,12,73.4
+MKUU WA SHULE DODOSO,60,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,268,97,74,73.4
+MKUU WA SHULE DODOSO,61,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,268,97,87,73.4
+MKUU WA SHULE DODOSO,62,B,Wanafunzi na Miundombinu,b1_vii_jumla,268,97,118,73.4
+MKUU WA SHULE DODOSO,63,B,Wanafunzi na Miundombinu,Idadi ya mikondo,93,272,12,25.5
+MKUU WA SHULE DODOSO,64,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,93,272,68,25.5
+MKUU WA SHULE DODOSO,65,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,93,272,76,25.5
+MKUU WA SHULE DODOSO,66,B,Wanafunzi na Miundombinu,b1_f1_jumla,93,272,79,25.5
+MKUU WA SHULE DODOSO,67,B,Wanafunzi na Miundombinu,Idadi ya mikondo,93,272,12,25.5
+MKUU WA SHULE DODOSO,68,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,93,272,61,25.5
+MKUU WA SHULE DODOSO,69,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,93,272,67,25.5
+MKUU WA SHULE DODOSO,70,B,Wanafunzi na Miundombinu,b1_f2_jumla,93,272,75,25.5
+MKUU WA SHULE DODOSO,71,B,Wanafunzi na Miundombinu,Idadi ya mikondo,93,272,14,25.5
+MKUU WA SHULE DODOSO,72,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,93,272,56,25.5
+MKUU WA SHULE DODOSO,73,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,93,272,60,25.5
+MKUU WA SHULE DODOSO,74,B,Wanafunzi na Miundombinu,b1_f3_jumla,93,272,66,25.5
+MKUU WA SHULE DODOSO,75,B,Wanafunzi na Miundombinu,Idadi ya mikondo,93,272,10,25.5
+MKUU WA SHULE DODOSO,76,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,93,272,46,25.5
+MKUU WA SHULE DODOSO,77,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,93,272,50,25.5
+MKUU WA SHULE DODOSO,78,B,Wanafunzi na Miundombinu,b1_f4_jumla,93,272,60,25.5
+MKUU WA SHULE DODOSO,79,B,Wanafunzi na Miundombinu,Idadi ya mikondo,12,353,6,3.3
+MKUU WA SHULE DODOSO,80,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,12,353,7,3.3
+MKUU WA SHULE DODOSO,81,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,12,353,9,3.3
+MKUU WA SHULE DODOSO,82,B,Wanafunzi na Miundombinu,b1_f5_jumla,12,353,12,3.3
+MKUU WA SHULE DODOSO,83,B,Wanafunzi na Miundombinu,Idadi ya mikondo,12,353,6,3.3
+MKUU WA SHULE DODOSO,84,B,Wanafunzi na Miundombinu,Wanafunzi — Wavulana,12,353,7,3.3
+MKUU WA SHULE DODOSO,85,B,Wanafunzi na Miundombinu,Wanafunzi — Wasichana,12,353,9,3.3
+MKUU WA SHULE DODOSO,86,B,Wanafunzi na Miundombinu,b1_f6_jumla,12,353,12,3.3
+MKUU WA SHULE DODOSO,87,B,Wanafunzi na Miundombinu,B2. Wanafunzi wenye mahitaji maalumu kwa aina na jinsi.,0,365,0,0.0
+MKUU WA SHULE DODOSO,88,B,Wanafunzi na Miundombinu,Uoni (wasioona/uoni hafifu) — Wavulana,365,0,10,100.0
+MKUU WA SHULE DODOSO,89,B,Wanafunzi na Miundombinu,Uoni (wasioona/uoni hafifu) — Wasichana,365,0,11,100.0
+MKUU WA SHULE DODOSO,90,B,Wanafunzi na Miundombinu,b2_uoni_jumla,365,0,16,100.0
+MKUU WA SHULE DODOSO,91,B,Wanafunzi na Miundombinu,Usikivu (viziwi/usikivu hafifu) — Wavulana,365,0,8,100.0
+MKUU WA SHULE DODOSO,92,B,Wanafunzi na Miundombinu,Usikivu (viziwi/usikivu hafifu) — Wasichana,365,0,8,100.0
+MKUU WA SHULE DODOSO,93,B,Wanafunzi na Miundombinu,b2_usikivu_jumla,365,0,11,100.0
+MKUU WA SHULE DODOSO,94,B,Wanafunzi na Miundombinu,Ulemavu wa viungo — Wavulana,365,0,10,100.0
+MKUU WA SHULE DODOSO,95,B,Wanafunzi na Miundombinu,Ulemavu wa viungo — Wasichana,365,0,8,100.0
+MKUU WA SHULE DODOSO,96,B,Wanafunzi na Miundombinu,b2_viungo_jumla,365,0,13,100.0
+MKUU WA SHULE DODOSO,97,B,Wanafunzi na Miundombinu,Ulemavu wa akili — Wavulana,365,0,14,100.0
+MKUU WA SHULE DODOSO,98,B,Wanafunzi na Miundombinu,Ulemavu wa akili — Wasichana,365,0,10,100.0
+MKUU WA SHULE DODOSO,99,B,Wanafunzi na Miundombinu,b2_akili_jumla,365,0,19,100.0
+MKUU WA SHULE DODOSO,100,B,Wanafunzi na Miundombinu,Ualbino — Wavulana,365,0,4,100.0
+MKUU WA SHULE DODOSO,101,B,Wanafunzi na Miundombinu,Ualbino — Wasichana,365,0,5,100.0
+MKUU WA SHULE DODOSO,102,B,Wanafunzi na Miundombinu,b2_ualbino_jumla,365,0,6,100.0
+MKUU WA SHULE DODOSO,103,B,Wanafunzi na Miundombinu,Usonji — Wavulana,365,0,8,100.0
+MKUU WA SHULE DODOSO,104,B,Wanafunzi na Miundombinu,Usonji — Wasichana,365,0,5,100.0
+MKUU WA SHULE DODOSO,105,B,Wanafunzi na Miundombinu,b2_usonji_jumla,365,0,11,100.0
+MKUU WA SHULE DODOSO,106,B,Wanafunzi na Miundombinu,Nyingine — Wavulana,365,0,8,100.0
+MKUU WA SHULE DODOSO,107,B,Wanafunzi na Miundombinu,Nyingine — Wasichana,365,0,7,100.0
+MKUU WA SHULE DODOSO,108,B,Wanafunzi na Miundombinu,b2_nyingine_jumla,365,0,11,100.0
+MKUU WA SHULE DODOSO,109,B,Wanafunzi na Miundombinu,B2. Taja mahitaji mengine,24,341,18,6.6
+MKUU WA SHULE DODOSO,110,B,Wanafunzi na Miundombinu,"B3. Mwenendo wa uandikishaji wa Darasa la I au Kidato cha I, 2021–2025.",0,365,0,0.0
+MKUU WA SHULE DODOSO,111,B,Wanafunzi na Miundombinu,Walioandikishwa — Wavulana,361,4,128,98.9
+MKUU WA SHULE DODOSO,112,B,Wanafunzi na Miundombinu,Walioandikishwa — Wasichana,361,4,127,98.9
+MKUU WA SHULE DODOSO,113,B,Wanafunzi na Miundombinu,b3_2021_jumla,361,4,179,98.9
+MKUU WA SHULE DODOSO,114,B,Wanafunzi na Miundombinu,Walioandikishwa — Wavulana,361,4,121,98.9
+MKUU WA SHULE DODOSO,115,B,Wanafunzi na Miundombinu,Walioandikishwa — Wasichana,361,4,132,98.9
+MKUU WA SHULE DODOSO,116,B,Wanafunzi na Miundombinu,b3_2022_jumla,361,4,178,98.9
+MKUU WA SHULE DODOSO,117,B,Wanafunzi na Miundombinu,Walioandikishwa — Wavulana,361,4,130,98.9
+MKUU WA SHULE DODOSO,118,B,Wanafunzi na Miundombinu,Walioandikishwa — Wasichana,361,4,138,98.9
+MKUU WA SHULE DODOSO,119,B,Wanafunzi na Miundombinu,b3_2023_jumla,361,4,198,98.9
+MKUU WA SHULE DODOSO,120,B,Wanafunzi na Miundombinu,Walioandikishwa — Wavulana,361,4,143,98.9
+MKUU WA SHULE DODOSO,121,B,Wanafunzi na Miundombinu,Walioandikishwa — Wasichana,361,4,151,98.9
+MKUU WA SHULE DODOSO,122,B,Wanafunzi na Miundombinu,b3_2024_jumla,361,4,191,98.9
+MKUU WA SHULE DODOSO,123,B,Wanafunzi na Miundombinu,Walioandikishwa — Wavulana,361,4,135,98.9
+MKUU WA SHULE DODOSO,124,B,Wanafunzi na Miundombinu,Walioandikishwa — Wasichana,361,4,142,98.9
+MKUU WA SHULE DODOSO,125,B,Wanafunzi na Miundombinu,b3_2025_jumla,361,4,202,98.9
+MKUU WA SHULE DODOSO,126,B,Wanafunzi na Miundombinu,"B4. Je, shule inatoa elimu ya amali?",365,0,2,100.0
+MKUU WA SHULE DODOSO,127,B,Wanafunzi na Miundombinu,B4. Jumla ya fani za elimu ya amali zinazotolewa,15,350,6,4.1
+MKUU WA SHULE DODOSO,128,B,Wanafunzi na Miundombinu,B5. Idadi ya vijiji/mitaa/vitongoji vinavyohudumiwa na shule,365,0,17,100.0
+MKUU WA SHULE DODOSO,129,B,Wanafunzi na Miundombinu,B6. Jumla ya vyumba vya madarasa vilivyokamilika na vinavyotumika kufundishia,365,0,34,100.0
+MKUU WA SHULE DODOSO,130,B,Wanafunzi na Miundombinu,B7. Gawa vyumba vya madarasa (B6) kwa hali. Jumla lazima ilingane na B6.,0,365,0,0.0
+MKUU WA SHULE DODOSO,131,B,Wanafunzi na Miundombinu,B7. Nzuri sana (4),365,0,26,100.0
+MKUU WA SHULE DODOSO,132,B,Wanafunzi na Miundombinu,B7. Nzuri (3),365,0,18,100.0
+MKUU WA SHULE DODOSO,133,B,Wanafunzi na Miundombinu,B7. Wastani (2),365,0,17,100.0
+MKUU WA SHULE DODOSO,134,B,Wanafunzi na Miundombinu,B7. Duni (1),365,0,11,100.0
+MKUU WA SHULE DODOSO,135,B,Wanafunzi na Miundombinu,b7_jumla,365,0,34,100.0
+MKUU WA SHULE DODOSO,136,B,Wanafunzi na Miundombinu,B7. Jumla ya vyumba lazima ilingane na B6.,0,365,0,0.0
+MKUU WA SHULE DODOSO,137,B,Wanafunzi na Miundombinu,B8. Idadi ya vyumba vyenye upungufu katika kila sehemu ya jengo; chumba kinaweza kuwa na upungufu zaidi ya mmoja.,0,365,0,0.0
+MKUU WA SHULE DODOSO,138,B,Wanafunzi na Miundombinu,B8. Sakafu (haipo au ina mashimo),365,0,18,100.0
+MKUU WA SHULE DODOSO,139,B,Wanafunzi na Miundombinu,B8. Kuta (nyufa/kubomoka),365,0,11,100.0
+MKUU WA SHULE DODOSO,140,B,Wanafunzi na Miundombinu,B8. Paa/kuezekwa (linavuja au halijakamilika),365,0,12,100.0
+MKUU WA SHULE DODOSO,141,B,Wanafunzi na Miundombinu,B8. Madirisha (hayapo au mabovu),365,0,15,100.0
+MKUU WA SHULE DODOSO,142,B,Wanafunzi na Miundombinu,B8. Milango (haipo au mibovu),365,0,16,100.0
+MKUU WA SHULE DODOSO,143,B,Wanafunzi na Miundombinu,B8. Ubao wa kufundishia (haupo au umechakaa),365,0,10,100.0
+MKUU WA SHULE DODOSO,144,B,Wanafunzi na Miundombinu,B9. Vyumba vya madarasa ambavyo ujenzi wake haujakamilika (maboma) kwa hatua ya ujenzi.,0,365,0,0.0
+MKUU WA SHULE DODOSO,145,B,Wanafunzi na Miundombinu,B9. Hatua: Msingi,365,0,6,100.0
+MKUU WA SHULE DODOSO,146,B,Wanafunzi na Miundombinu,B9. Hatua: Kuta,365,0,6,100.0
+MKUU WA SHULE DODOSO,147,B,Wanafunzi na Miundombinu,B9. Hatua: Kuezekwa,365,0,7,100.0
+MKUU WA SHULE DODOSO,148,B,Wanafunzi na Miundombinu,B9. Hatua: Umaliziaji,365,0,9,100.0
+MKUU WA SHULE DODOSO,149,B,Wanafunzi na Miundombinu,b9_jumla,365,0,14,100.0
+MKUU WA SHULE DODOSO,150,B,Wanafunzi na Miundombinu,"B10. Je, kuna mkondo unaofundishiwa nje, chini ya mti au kwenye jengo la muda?",365,0,2,100.0
+MKUU WA SHULE DODOSO,151,B,Wanafunzi na Miundombinu,B10. Idadi ya mikondo inayofundishiwa nje/kwenye jengo la muda,35,330,6,9.6
+MKUU WA SHULE DODOSO,152,B,Wanafunzi na Miundombinu,B10. Idadi ya wanafunzi katika mikondo hiyo,35,330,28,9.6
+MKUU WA SHULE DODOSO,153,B,Wanafunzi na Miundombinu,"B11. Je, shule inatumia mfumo wa zamu (asubuhi na mchana) kutokana na upungufu wa vyumba?",365,0,2,100.0
+MKUU WA SHULE DODOSO,154,B,Wanafunzi na Miundombinu,B11. Taja madarasa/vidato vinavyotumia mfumo wa zamu,44,321,38,12.1
+MKUU WA SHULE DODOSO,155,B,Wanafunzi na Miundombinu,"B12. Idadi ya samani zilizopo, kwa aina na hali: nzima, zinazohitaji ukarabati, na mbovu.",0,365,0,0.0
+MKUU WA SHULE DODOSO,156,B,Wanafunzi na Miundombinu,Nzima (zinatumika),272,93,162,74.5
+MKUU WA SHULE DODOSO,157,B,Wanafunzi na Miundombinu,Zinahitaji ukarabati,272,93,38,74.5
+MKUU WA SHULE DODOSO,158,B,Wanafunzi na Miundombinu,Mbovu (hazitumiki),272,93,33,74.5
+MKUU WA SHULE DODOSO,159,B,Wanafunzi na Miundombinu,b12_madawati_jumla,272,93,184,74.5
+MKUU WA SHULE DODOSO,160,B,Wanafunzi na Miundombinu,Nzima (zinatumika),93,272,81,25.5
+MKUU WA SHULE DODOSO,161,B,Wanafunzi na Miundombinu,Zinahitaji ukarabati,93,272,37,25.5
+MKUU WA SHULE DODOSO,162,B,Wanafunzi na Miundombinu,Mbovu (hazitumiki),93,272,22,25.5
+MKUU WA SHULE DODOSO,163,B,Wanafunzi na Miundombinu,b12_viti_wanafunzi_jumla,93,272,85,25.5
+MKUU WA SHULE DODOSO,164,B,Wanafunzi na Miundombinu,Nzima (zinatumika),93,272,80,25.5
+MKUU WA SHULE DODOSO,165,B,Wanafunzi na Miundombinu,Zinahitaji ukarabati,93,272,41,25.5
+MKUU WA SHULE DODOSO,166,B,Wanafunzi na Miundombinu,Mbovu (hazitumiki),93,272,25,25.5
+MKUU WA SHULE DODOSO,167,B,Wanafunzi na Miundombinu,b12_meza_wanafunzi_jumla,93,272,82,25.5
+MKUU WA SHULE DODOSO,168,B,Wanafunzi na Miundombinu,Nzima (zinatumika),365,0,53,100.0
+MKUU WA SHULE DODOSO,169,B,Wanafunzi na Miundombinu,Zinahitaji ukarabati,365,0,17,100.0
+MKUU WA SHULE DODOSO,170,B,Wanafunzi na Miundombinu,Mbovu (hazitumiki),365,0,13,100.0
+MKUU WA SHULE DODOSO,171,B,Wanafunzi na Miundombinu,b12_viti_walimu_jumla,365,0,58,100.0
+MKUU WA SHULE DODOSO,172,B,Wanafunzi na Miundombinu,Nzima (zinatumika),365,0,41,100.0
+MKUU WA SHULE DODOSO,173,B,Wanafunzi na Miundombinu,Zinahitaji ukarabati,365,0,13,100.0
+MKUU WA SHULE DODOSO,174,B,Wanafunzi na Miundombinu,Mbovu (hazitumiki),365,0,9,100.0
+MKUU WA SHULE DODOSO,175,B,Wanafunzi na Miundombinu,b12_meza_walimu_jumla,365,0,41,100.0
+MKUU WA SHULE DODOSO,176,B,Wanafunzi na Miundombinu,"B13. Je, kuna wanafunzi wanaokaa chini kwa kukosa madawati/viti?",365,0,2,100.0
+MKUU WA SHULE DODOSO,177,B,Wanafunzi na Miundombinu,B13. Idadi ya wanafunzi wanaokaa chini,78,287,64,21.4
+MKUU WA SHULE DODOSO,178,B,Wanafunzi na Miundombinu,B14. Matundu ya vyoo kwa kundi la watumiaji na hali yake.,0,365,0,0.0
+MKUU WA SHULE DODOSO,179,B,Wanafunzi na Miundombinu,Yanayotumika,365,0,27,100.0
+MKUU WA SHULE DODOSO,180,B,Wanafunzi na Miundombinu,Mabovu/hayatumiki,365,0,10,100.0
+MKUU WA SHULE DODOSO,181,B,Wanafunzi na Miundombinu,b14_wavulana_jumla,365,0,29,100.0
+MKUU WA SHULE DODOSO,182,B,Wanafunzi na Miundombinu,Yanayotumika,365,0,33,100.0
+MKUU WA SHULE DODOSO,183,B,Wanafunzi na Miundombinu,Mabovu/hayatumiki,365,0,12,100.0
+MKUU WA SHULE DODOSO,184,B,Wanafunzi na Miundombinu,b14_wasichana_jumla,365,0,34,100.0
+MKUU WA SHULE DODOSO,185,B,Wanafunzi na Miundombinu,Yanayotumika,365,0,8,100.0
+MKUU WA SHULE DODOSO,186,B,Wanafunzi na Miundombinu,Mabovu/hayatumiki,365,0,3,100.0
+MKUU WA SHULE DODOSO,187,B,Wanafunzi na Miundombinu,b14_walimu_me_jumla,365,0,8,100.0
+MKUU WA SHULE DODOSO,188,B,Wanafunzi na Miundombinu,Yanayotumika,365,0,8,100.0
+MKUU WA SHULE DODOSO,189,B,Wanafunzi na Miundombinu,Mabovu/hayatumiki,365,0,4,100.0
+MKUU WA SHULE DODOSO,190,B,Wanafunzi na Miundombinu,b14_walimu_ke_jumla,365,0,9,100.0
+MKUU WA SHULE DODOSO,191,B,Wanafunzi na Miundombinu,Yanayotumika,365,0,12,100.0
+MKUU WA SHULE DODOSO,192,B,Wanafunzi na Miundombinu,Mabovu/hayatumiki,365,0,4,100.0
+MKUU WA SHULE DODOSO,193,B,Wanafunzi na Miundombinu,b14_ulemavu_jumla,365,0,12,100.0
+MKUU WA SHULE DODOSO,194,B,Wanafunzi na Miundombinu,B15. Hali ya jumla ya majengo ya vyoo vya wanafunzi,365,0,4,100.0
+MKUU WA SHULE DODOSO,195,B,Wanafunzi na Miundombinu,"B16. Je, kuna chumba maalumu cha wasichana kujisitiri wakati wa hedhi?",363,2,2,99.5
+MKUU WA SHULE DODOSO,196,B,Wanafunzi na Miundombinu,"B17. Je, kuna sehemu ya kunawa mikono karibu na vyoo?",365,0,3,100.0
+MKUU WA SHULE DODOSO,197,B,Wanafunzi na Miundombinu,"B18. Kwa kila jengo, taja kama lipo na hali yake iwapo lipo.",0,365,0,0.0
+MKUU WA SHULE DODOSO,198,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,199,B,Wanafunzi na Miundombinu,Hali ya jengo,269,96,4,73.7
+MKUU WA SHULE DODOSO,200,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,201,B,Wanafunzi na Miundombinu,Hali ya jengo,145,220,4,39.7
+MKUU WA SHULE DODOSO,202,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,203,B,Wanafunzi na Miundombinu,Hali ya jengo,69,296,4,18.9
+MKUU WA SHULE DODOSO,204,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,205,B,Wanafunzi na Miundombinu,Hali ya jengo,52,313,4,14.2
+MKUU WA SHULE DODOSO,206,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,207,B,Wanafunzi na Miundombinu,Hali ya jengo,144,221,4,39.5
+MKUU WA SHULE DODOSO,208,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,209,B,Wanafunzi na Miundombinu,Hali ya jengo,151,214,4,41.4
+MKUU WA SHULE DODOSO,210,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,211,B,Wanafunzi na Miundombinu,Hali ya jengo,75,290,4,20.5
+MKUU WA SHULE DODOSO,212,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",36,329,1,9.9
+MKUU WA SHULE DODOSO,213,B,Wanafunzi na Miundombinu,Hali ya jengo,36,329,4,9.9
+MKUU WA SHULE DODOSO,214,B,Wanafunzi na Miundombinu,"Je, jengo hili lipo?",365,0,2,100.0
+MKUU WA SHULE DODOSO,215,B,Wanafunzi na Miundombinu,Taja jengo jingine,44,321,33,12.1
+MKUU WA SHULE DODOSO,216,B,Wanafunzi na Miundombinu,Hali ya jengo,44,321,4,12.1
+MKUU WA SHULE DODOSO,217,B,Wanafunzi na Miundombinu,"B-VI. Viashiria vya uwiano, upungufu na fahirisi vitakokotolewa wakati wa uchambuzi, si kujazwa na mhojiwa. Viwango vitahakikiwa dhidi ya miongozo ya Wizara.",0,365,0,0.0
+MKUU WA SHULE DODOSO,218,C,Matokeo ya Ujifunzaji,Tumia takwimu za matokeo ya NECTA kwa miaka 2020–2025. Waliofaulu wahesabiwe kwa kigezo rasmi cha NECTA cha ngazi husika.,0,365,0,0.0
+MKUU WA SHULE DODOSO,219,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,107,73.4
+MKUU WA SHULE DODOSO,220,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,96,73.4
+MKUU WA SHULE DODOSO,221,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,109,73.4
+MKUU WA SHULE DODOSO,222,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,105,73.4
+MKUU WA SHULE DODOSO,223,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,116,73.4
+MKUU WA SHULE DODOSO,224,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,104,73.4
+MKUU WA SHULE DODOSO,225,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,110,73.4
+MKUU WA SHULE DODOSO,226,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,110,73.4
+MKUU WA SHULE DODOSO,227,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,115,73.4
+MKUU WA SHULE DODOSO,228,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,103,73.4
+MKUU WA SHULE DODOSO,229,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,120,73.4
+MKUU WA SHULE DODOSO,230,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,108,73.4
+MKUU WA SHULE DODOSO,231,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,47,25.5
+MKUU WA SHULE DODOSO,232,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,44,25.5
+MKUU WA SHULE DODOSO,233,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,42,25.5
+MKUU WA SHULE DODOSO,234,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,47,25.5
+MKUU WA SHULE DODOSO,235,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,50,25.5
+MKUU WA SHULE DODOSO,236,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,48,25.5
+MKUU WA SHULE DODOSO,237,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,48,25.5
+MKUU WA SHULE DODOSO,238,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,49,25.5
+MKUU WA SHULE DODOSO,239,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,48,25.5
+MKUU WA SHULE DODOSO,240,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,49,25.5
+MKUU WA SHULE DODOSO,241,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,57,25.5
+MKUU WA SHULE DODOSO,242,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,54,25.5
+MKUU WA SHULE DODOSO,243,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,12,353,7,3.3
+MKUU WA SHULE DODOSO,244,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,12,353,7,3.3
+MKUU WA SHULE DODOSO,245,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,12,353,8,3.3
+MKUU WA SHULE DODOSO,246,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,12,353,7,3.3
+MKUU WA SHULE DODOSO,247,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,12,353,8,3.3
+MKUU WA SHULE DODOSO,248,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,12,353,8,3.3
+MKUU WA SHULE DODOSO,249,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,12,353,9,3.3
+MKUU WA SHULE DODOSO,250,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,12,353,8,3.3
+MKUU WA SHULE DODOSO,251,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,12,353,9,3.3
+MKUU WA SHULE DODOSO,252,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,12,353,8,3.3
+MKUU WA SHULE DODOSO,253,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,12,353,9,3.3
+MKUU WA SHULE DODOSO,254,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,12,353,9,3.3
+MKUU WA SHULE DODOSO,255,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,136,73.4
+MKUU WA SHULE DODOSO,256,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,125,73.4
+MKUU WA SHULE DODOSO,257,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,124,73.4
+MKUU WA SHULE DODOSO,258,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,121,73.4
+MKUU WA SHULE DODOSO,259,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,132,73.4
+MKUU WA SHULE DODOSO,260,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,119,73.4
+MKUU WA SHULE DODOSO,261,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,126,73.4
+MKUU WA SHULE DODOSO,262,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,116,73.4
+MKUU WA SHULE DODOSO,263,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,141,73.4
+MKUU WA SHULE DODOSO,264,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,129,73.4
+MKUU WA SHULE DODOSO,265,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,268,97,137,73.4
+MKUU WA SHULE DODOSO,266,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,268,97,126,73.4
+MKUU WA SHULE DODOSO,267,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,48,25.5
+MKUU WA SHULE DODOSO,268,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,47,25.5
+MKUU WA SHULE DODOSO,269,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,52,25.5
+MKUU WA SHULE DODOSO,270,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,52,25.5
+MKUU WA SHULE DODOSO,271,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,53,25.5
+MKUU WA SHULE DODOSO,272,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,51,25.5
+MKUU WA SHULE DODOSO,273,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,57,25.5
+MKUU WA SHULE DODOSO,274,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,57,25.5
+MKUU WA SHULE DODOSO,275,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,53,25.5
+MKUU WA SHULE DODOSO,276,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,54,25.5
+MKUU WA SHULE DODOSO,277,C,Matokeo ya Ujifunzaji,Idadi ya waliofanya,93,272,70,25.5
+MKUU WA SHULE DODOSO,278,C,Matokeo ya Ujifunzaji,Idadi ya waliofaulu,93,272,67,25.5
+MKUU WA SHULE DODOSO,279,C,Matokeo ya Ujifunzaji,"C3. Idadi ya wanafunzi wa Darasa la III wanaoweza kusoma, kuandika na kuhesabu.",268,97,143,73.4
+MKUU WA SHULE DODOSO,280,C,Matokeo ya Ujifunzaji,"C4. Kwa kila somo la mtihani wa taifa wa mwisho, andika idadi ya waliofanya na waliofaulu. Asilimia itakokotolewa kwenye uchambuzi.",0,365,0,0.0
+MKUU WA SHULE DODOSO,281,C,Matokeo ya Ujifunzaji,Idadi ya masomo yatakayojazwa (kwa ngazi hii),268,97,6,73.4
+MKUU WA SHULE DODOSO,282,C,Matokeo ya Ujifunzaji,Idadi ya masomo yatakayojazwa (kwa ngazi hii),93,272,10,25.5
+MKUU WA SHULE DODOSO,283,C,Matokeo ya Ujifunzaji,Idadi ya masomo yatakayojazwa (kwa ngazi hii),12,353,9,3.3
+MKUU WA SHULE DODOSO,284,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3),307,58,75,84.1
+MKUU WA SHULE DODOSO,285,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Upungufu wa walimu,307,58,2,84.1
+MKUU WA SHULE DODOSO,286,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Ufundishaji usio fanisi,307,58,2,84.1
+MKUU WA SHULE DODOSO,287,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Upungufu wa vitabu,307,58,2,84.1
+MKUU WA SHULE DODOSO,288,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Utoro wa wanafunzi,307,58,2,84.1
+MKUU WA SHULE DODOSO,289,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Msongamano darasani,307,58,2,84.1
+MKUU WA SHULE DODOSO,290,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Ukosefu wa chakula shuleni,307,58,2,84.1
+MKUU WA SHULE DODOSO,291,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Umbali,307,58,2,84.1
+MKUU WA SHULE DODOSO,292,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Ukosefu wa maabara/vifaa,307,58,2,84.1
+MKUU WA SHULE DODOSO,293,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Ushiriki duni wa wazazi,307,58,2,84.1
+MKUU WA SHULE DODOSO,294,C,Matokeo ya Ujifunzaji,C5. Sababu kuu za ufaulu duni kwa masomo yenye ufaulu wa chini zaidi (chagua hadi 3)/Nyingine (taja),307,58,2,84.1
+MKUU WA SHULE DODOSO,295,C,Matokeo ya Ujifunzaji,C5. Taja sababu nyingine,38,327,37,10.4
+MKUU WA SHULE DODOSO,296,D,Walimu,D1. Walimu wa ajira ya kudumu waliopo — Wanaume,365,0,33,100.0
+MKUU WA SHULE DODOSO,297,D,Walimu,D1. Walimu wa ajira ya kudumu waliopo — Wanawake,365,0,33,100.0
+MKUU WA SHULE DODOSO,298,D,Walimu,d1_kudumu_jumla,365,0,49,100.0
+MKUU WA SHULE DODOSO,299,D,Walimu,D2. Walimu wa kujitolea/mkataba,365,0,20,100.0
+MKUU WA SHULE DODOSO,300,D,Walimu,D3. Mahitaji ya walimu kwa mujibu wa ikama — Wanaume,365,0,30,100.0
+MKUU WA SHULE DODOSO,301,D,Walimu,D3. Mahitaji ya walimu kwa mujibu wa ikama — Wanawake,365,0,30,100.0
+MKUU WA SHULE DODOSO,302,D,Walimu,d3_ikama_jumla,365,0,53,100.0
+MKUU WA SHULE DODOSO,303,D,Walimu,D4. Idadi ya masomo yanayofundishwa shuleni,365,0,23,100.0
+MKUU WA SHULE DODOSO,304,D,Walimu,"D5. Je, kuna somo lisilo na mwalimu kabisa?",365,0,2,100.0
+MKUU WA SHULE DODOSO,305,D,Walimu,D5. Taja masomo yasiyo na mwalimu,48,317,43,13.2
+MKUU WA SHULE DODOSO,306,D,Walimu,Uchambuzi: Walimu wanaohitajika kwa somo = jumla ya vipindi kwa wiki ÷ mzigo wa kawaida kwa mwalimu kwa wiki kwa mujibu wa ikama.,0,365,0,0.0
+MKUU WA SHULE DODOSO,307,E,Kubaki kwa Walimu,E1. Walimu walioondoka katika kipindi cha 2024–2025 kwa sababu na jinsi.,0,365,0,0.0
+MKUU WA SHULE DODOSO,308,E,Kubaki kwa Walimu,Uhamisho kwa ombi — Wanaume,365,0,8,100.0
+MKUU WA SHULE DODOSO,309,E,Kubaki kwa Walimu,Uhamisho kwa ombi — Wanawake,365,0,7,100.0
+MKUU WA SHULE DODOSO,310,E,Kubaki kwa Walimu,e1_uhamisho_jumla,365,0,10,100.0
+MKUU WA SHULE DODOSO,311,E,Kubaki kwa Walimu,Kuacha kazi — Wanaume,365,0,4,100.0
+MKUU WA SHULE DODOSO,312,E,Kubaki kwa Walimu,Kuacha kazi — Wanawake,365,0,4,100.0
+MKUU WA SHULE DODOSO,313,E,Kubaki kwa Walimu,e1_kuacha_jumla,365,0,6,100.0
+MKUU WA SHULE DODOSO,314,E,Kubaki kwa Walimu,Kustaafu — Wanaume,365,0,3,100.0
+MKUU WA SHULE DODOSO,315,E,Kubaki kwa Walimu,Kustaafu — Wanawake,365,0,3,100.0
+MKUU WA SHULE DODOSO,316,E,Kubaki kwa Walimu,e1_kustaafu_jumla,365,0,4,100.0
+MKUU WA SHULE DODOSO,317,E,Kubaki kwa Walimu,Kifo — Wanaume,365,0,3,100.0
+MKUU WA SHULE DODOSO,318,E,Kubaki kwa Walimu,Kifo — Wanawake,365,0,2,100.0
+MKUU WA SHULE DODOSO,319,E,Kubaki kwa Walimu,e1_kifo_jumla,365,0,3,100.0
+MKUU WA SHULE DODOSO,320,E,Kubaki kwa Walimu,Masomo — Wanaume,365,0,9,100.0
+MKUU WA SHULE DODOSO,321,E,Kubaki kwa Walimu,Masomo — Wanawake,365,0,7,100.0
+MKUU WA SHULE DODOSO,322,E,Kubaki kwa Walimu,e1_masomo_jumla,365,0,11,100.0
+MKUU WA SHULE DODOSO,323,E,Kubaki kwa Walimu,Kubadilisha kazi — Wanaume,365,0,4,100.0
+MKUU WA SHULE DODOSO,324,E,Kubaki kwa Walimu,Kubadilisha kazi — Wanawake,365,0,3,100.0
+MKUU WA SHULE DODOSO,325,E,Kubaki kwa Walimu,e1_kazi_nyingine_jumla,365,0,5,100.0
+MKUU WA SHULE DODOSO,326,E,Kubaki kwa Walimu,Nyingine — Wanaume,365,0,5,100.0
+MKUU WA SHULE DODOSO,327,E,Kubaki kwa Walimu,Nyingine — Wanawake,365,0,3,100.0
+MKUU WA SHULE DODOSO,328,E,Kubaki kwa Walimu,e1_nyingine_jumla,365,0,6,100.0
+MKUU WA SHULE DODOSO,329,E,Kubaki kwa Walimu,E1. Taja kazi/sekta mpya kama unafahamu,19,346,12,5.2
+MKUU WA SHULE DODOSO,330,E,Kubaki kwa Walimu,E1. Taja sababu nyingine,19,346,17,5.2
+MKUU WA SHULE DODOSO,331,E,Kubaki kwa Walimu,E2. Idadi ya nyumba za walimu zilizopo,365,0,15,100.0
+MKUU WA SHULE DODOSO,332,E,Kubaki kwa Walimu,E3. Idadi ya walimu wanaoishi katika nyumba za shule,365,0,17,100.0
+MKUU WA SHULE DODOSO,333,E,Kubaki kwa Walimu,E4. Idadi ya nyumba za walimu (E2) kwa hali; jumla lazima ilingane na E2.,0,365,0,0.0
+MKUU WA SHULE DODOSO,334,E,Kubaki kwa Walimu,E4. Nzuri sana,365,0,10,100.0
+MKUU WA SHULE DODOSO,335,E,Kubaki kwa Walimu,E4. Nzuri,365,0,11,100.0
+MKUU WA SHULE DODOSO,336,E,Kubaki kwa Walimu,E4. Wastani,365,0,10,100.0
+MKUU WA SHULE DODOSO,337,E,Kubaki kwa Walimu,E4. Duni,365,0,7,100.0
+MKUU WA SHULE DODOSO,338,E,Kubaki kwa Walimu,e4_jumla,365,0,15,100.0
+MKUU WA SHULE DODOSO,339,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3),365,0,65,100.0
+MKUU WA SHULE DODOSO,340,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Ukosefu wa nyumba,365,0,2,100.0
+MKUU WA SHULE DODOSO,341,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Umbali/usafiri,365,0,2,100.0
+MKUU WA SHULE DODOSO,342,E,Kubaki kwa Walimu,"E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Ukosefu wa maji, umeme, mtandao",365,0,2,100.0
+MKUU WA SHULE DODOSO,343,E,Kubaki kwa Walimu,"E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Huduma za jamii duni (afya, masoko)",365,0,2,100.0
+MKUU WA SHULE DODOSO,344,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Madai/malimbikizo,365,0,2,100.0
+MKUU WA SHULE DODOSO,345,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Kuchelewa kupandishwa daraja,365,0,2,100.0
+MKUU WA SHULE DODOSO,346,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Mzigo mkubwa wa kazi,365,0,2,100.0
+MKUU WA SHULE DODOSO,347,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Mahusiano kazini,365,0,2,100.0
+MKUU WA SHULE DODOSO,348,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Kujiendeleza kimasomo,365,0,2,100.0
+MKUU WA SHULE DODOSO,349,E,Kubaki kwa Walimu,E5. Sababu kuu za walimu kuondoka au kutopenda kubaki (chagua hadi 3)/Nyingine (taja),365,0,2,100.0
+MKUU WA SHULE DODOSO,350,E,Kubaki kwa Walimu,E5. Taja sababu nyingine,90,275,72,24.7
+MKUU WA SHULE DODOSO,351,G,"Maji, Usafi na Huduma",G1. Chanzo kikuu cha maji,365,0,5,100.0
+MKUU WA SHULE DODOSO,352,G,"Maji, Usafi na Huduma","G2. Je, maji yanapatikana shuleni mwaka mzima?",365,0,3,100.0
+MKUU WA SHULE DODOSO,353,G,"Maji, Usafi na Huduma",G3. Chanzo cha umeme,365,0,5,100.0
+MKUU WA SHULE DODOSO,354,G,"Maji, Usafi na Huduma",G3. Taja chanzo kingine cha umeme,2,363,2,0.5
+MKUU WA SHULE DODOSO,355,G,"Maji, Usafi na Huduma",G4. Aina ya huduma ya intaneti inayopatikana shuleni,365,0,4,100.0
+MKUU WA SHULE DODOSO,356,G,"Maji, Usafi na Huduma",G5. Huduma ya intaneti inatumika kwa shughuli gani?,312,53,3,85.5
+MKUU WA SHULE DODOSO,357,G,"Maji, Usafi na Huduma",G6. Uzio wa shule,365,0,3,100.0
+MKUU WA SHULE DODOSO,358,H,Maabara na Karakana,H1. Maabara ya Kemia,93,272,3,25.5
+MKUU WA SHULE DODOSO,359,H,Maabara na Karakana,H1. Maabara ya Fizikia,93,272,3,25.5
+MKUU WA SHULE DODOSO,360,H,Maabara na Karakana,H1. Maabara ya Biolojia,93,272,3,25.5
+MKUU WA SHULE DODOSO,361,H,Maabara na Karakana,H2. Utoshelevu wa vifaa na kemikali za maabara,93,272,3,25.5
+MKUU WA SHULE DODOSO,362,H,Maabara na Karakana,"H3. Je, kuna mtaalamu/msaidizi wa maabara?",93,272,2,25.5
+MKUU WA SHULE DODOSO,363,H,Maabara na Karakana,"H4. Je, shule inatoa elimu ya amali na fani zinazohusika?",365,0,2,100.0
+MKUU WA SHULE DODOSO,364,H,Maabara na Karakana,H4. Taja fani za elimu ya amali zinazotolewa,10,355,10,2.7
+MKUU WA SHULE DODOSO,365,H,Maabara na Karakana,"H5. Je, kuna karakana katika shule ya amali?",10,355,2,2.7
+MKUU WA SHULE DODOSO,366,H,Maabara na Karakana,"H5. Je, vifaa vya amali vipo na vinatosha?",10,355,2,2.7
+MKUU WA SHULE DODOSO,367,I,Vitabu na Vifaa,I1. Idadi ya masomo ya kujaza taarifa za vitabu vya kiada,365,0,25,100.0
+MKUU WA SHULE DODOSO,368,I,Vitabu na Vifaa,"I5. Vifaa maalumu kwa wanafunzi wenye mahitaji maalumu (nukta nundu, maandishi makubwa, n.k.)",365,0,4,100.0
+MKUU WA SHULE DODOSO,369,I,Vitabu na Vifaa,Taja masomo yenye upungufu wa vitabu,326,39,300,89.3
+MKUU WA SHULE DODOSO,370,J,Mahudhurio na Kuacha Shule,"J2. Idadi ya wanafunzi walioacha shule kwa mwaka na jinsi, 2020–2025.",0,365,0,0.0
+MKUU WA SHULE DODOSO,371,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wavulana,365,0,33,100.0
+MKUU WA SHULE DODOSO,372,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wasichana,365,0,33,100.0
+MKUU WA SHULE DODOSO,373,J,Mahudhurio na Kuacha Shule,j2_2020_jumla,365,0,48,100.0
+MKUU WA SHULE DODOSO,374,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wavulana,365,0,35,100.0
+MKUU WA SHULE DODOSO,375,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wasichana,365,0,31,100.0
+MKUU WA SHULE DODOSO,376,J,Mahudhurio na Kuacha Shule,j2_2021_jumla,365,0,47,100.0
+MKUU WA SHULE DODOSO,377,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wavulana,365,0,33,100.0
+MKUU WA SHULE DODOSO,378,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wasichana,365,0,30,100.0
+MKUU WA SHULE DODOSO,379,J,Mahudhurio na Kuacha Shule,j2_2022_jumla,365,0,47,100.0
+MKUU WA SHULE DODOSO,380,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wavulana,365,0,30,100.0
+MKUU WA SHULE DODOSO,381,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wasichana,365,0,32,100.0
+MKUU WA SHULE DODOSO,382,J,Mahudhurio na Kuacha Shule,j2_2023_jumla,365,0,48,100.0
+MKUU WA SHULE DODOSO,383,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wavulana,365,0,35,100.0
+MKUU WA SHULE DODOSO,384,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wasichana,365,0,32,100.0
+MKUU WA SHULE DODOSO,385,J,Mahudhurio na Kuacha Shule,j2_2024_jumla,365,0,50,100.0
+MKUU WA SHULE DODOSO,386,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wavulana,365,0,33,100.0
+MKUU WA SHULE DODOSO,387,J,Mahudhurio na Kuacha Shule,Waliyoacha shule — Wasichana,365,0,33,100.0
+MKUU WA SHULE DODOSO,388,J,Mahudhurio na Kuacha Shule,j2_2025_jumla,365,0,48,100.0
+MKUU WA SHULE DODOSO,389,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3),365,0,52,100.0
+MKUU WA SHULE DODOSO,390,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Utoro sugu,365,0,2,100.0
+MKUU WA SHULE DODOSO,391,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Mimba,365,0,2,100.0
+MKUU WA SHULE DODOSO,392,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Ndoa za utotoni,365,0,2,100.0
+MKUU WA SHULE DODOSO,393,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Ajira/kazi za nyumbani,365,0,2,100.0
+MKUU WA SHULE DODOSO,394,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Umbali,365,0,2,100.0
+MKUU WA SHULE DODOSO,395,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Umaskini,365,0,2,100.0
+MKUU WA SHULE DODOSO,396,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Uhamaji wa familia,365,0,2,100.0
+MKUU WA SHULE DODOSO,397,J,Mahudhurio na Kuacha Shule,"J3. Sababu kuu za kuacha shule (chagua hadi 3)/Shughuli za msimu (kilimo, uvuvi, ufugaji, uchimbaji)",365,0,2,100.0
+MKUU WA SHULE DODOSO,398,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Ugumu wa masomo,365,0,2,100.0
+MKUU WA SHULE DODOSO,399,J,Mahudhurio na Kuacha Shule,J3. Sababu kuu za kuacha shule (chagua hadi 3)/Nyingine (taja),365,0,2,100.0
+MKUU WA SHULE DODOSO,400,J,Mahudhurio na Kuacha Shule,J3. Taja sababu nyingine,79,286,31,21.6
+MKUU WA SHULE DODOSO,401,J,Mahudhurio na Kuacha Shule,"J4. Je, kuna huduma ya chakula shuleni?",365,0,4,100.0
+MKUU WA SHULE DODOSO,402,J,Mahudhurio na Kuacha Shule,J5. Nani anagharamia huduma ya chakula? (chagua wote wanaohusika),341,24,11,93.4
+MKUU WA SHULE DODOSO,403,J,Mahudhurio na Kuacha Shule,J5. Nani anagharamia huduma ya chakula? (chagua wote wanaohusika)/Serikali,341,24,2,93.4
+MKUU WA SHULE DODOSO,404,J,Mahudhurio na Kuacha Shule,J5. Nani anagharamia huduma ya chakula? (chagua wote wanaohusika)/Shule (mf. mradi wa shule),341,24,2,93.4
+MKUU WA SHULE DODOSO,405,J,Mahudhurio na Kuacha Shule,J5. Nani anagharamia huduma ya chakula? (chagua wote wanaohusika)/Wazazi/walezi,341,24,2,93.4
+MKUU WA SHULE DODOSO,406,J,Mahudhurio na Kuacha Shule,J5. Nani anagharamia huduma ya chakula? (chagua wote wanaohusika)/Wadau wengine (taja),341,24,2,93.4
+MKUU WA SHULE DODOSO,407,J,Mahudhurio na Kuacha Shule,J5. Taja wadau wengine,11,354,9,3.0
+MKUU WA SHULE DODOSO,408,J,Mahudhurio na Kuacha Shule,J6. Wanafunzi waliorejeshwa shuleni baada ya kuacha mwaka 2025,365,0,13,100.0
+MKUU WA SHULE DODOSO,409,K,Ufikiaji na Umbali,K1. Umbali wa safari moja kutoka nyumbani kwenda shuleni kwa wanafunzi wengi kwa kila ngazi inayohusika.,0,365,0,0.0
+MKUU WA SHULE DODOSO,410,K,Ufikiaji na Umbali,K1. Umbali — Elimu ya Awali,272,93,5,74.5
+MKUU WA SHULE DODOSO,411,K,Ufikiaji na Umbali,K1. Umbali — Msingi,268,97,4,73.4
+MKUU WA SHULE DODOSO,412,K,Ufikiaji na Umbali,K1. Umbali — Sekondari,93,272,5,25.5
+MKUU WA SHULE DODOSO,413,K,Ufikiaji na Umbali,"K2. Je, miundombinu ya shule ni rafiki kwa wenye ulemavu?",365,0,3,100.0
+MKUU WA SHULE DODOSO,414,L,Changamoto na Mapendekezo,L1. Chagua moduli yenye changamoto (nafasi 1),365,0,11,100.0
+MKUU WA SHULE DODOSO,415,L,Changamoto na Mapendekezo,L2. Chanzo kikuu cha changamoto hii,365,0,10,100.0
+MKUU WA SHULE DODOSO,416,L,Changamoto na Mapendekezo,L2. Taja chanzo kingine,25,340,25,6.8
+MKUU WA SHULE DODOSO,417,L,Changamoto na Mapendekezo,L3. Mapendekezo ya utatuzi wa changamoto hii,365,0,355,100.0
+MKUU WA SHULE DODOSO,418,L,Changamoto na Mapendekezo,L1. Chagua moduli yenye changamoto (nafasi 2),365,0,11,100.0
+MKUU WA SHULE DODOSO,419,L,Changamoto na Mapendekezo,L2. Chanzo kikuu cha changamoto hii,365,0,10,100.0
+MKUU WA SHULE DODOSO,420,L,Changamoto na Mapendekezo,L2. Taja chanzo kingine,53,312,50,14.5
+MKUU WA SHULE DODOSO,421,L,Changamoto na Mapendekezo,L3. Mapendekezo ya utatuzi wa changamoto hii,365,0,354,100.0
+MKUU WA SHULE DODOSO,422,L,Changamoto na Mapendekezo,L1. Chagua moduli yenye changamoto (nafasi 3),365,0,11,100.0
+MKUU WA SHULE DODOSO,423,L,Changamoto na Mapendekezo,L2. Chanzo kikuu cha changamoto hii,365,0,10,100.0
+MKUU WA SHULE DODOSO,424,L,Changamoto na Mapendekezo,L2. Taja chanzo kingine,37,328,35,10.1
+MKUU WA SHULE DODOSO,425,L,Changamoto na Mapendekezo,L3. Mapendekezo ya utatuzi wa changamoto hii,365,0,343,100.0
+MKUU WA SHULE DODOSO,426,N,GPS na Historical Picha,A18. GPS ya shule (ichukuliwe mdadisi akiwa eneo la shule; ijazwe mwishoni),365,0,364,100.0
+MKUU WA SHULE DODOSO,427,N,GPS na Historical Picha,_A18. GPS ya shule (ichukuliwe mdadisi akiwa eneo la shule; ijazwe mwishoni)_latitude,365,0,362,100.0
+MKUU WA SHULE DODOSO,428,N,GPS na Historical Picha,_A18. GPS ya shule (ichukuliwe mdadisi akiwa eneo la shule; ijazwe mwishoni)_longitude,365,0,362,100.0
+MKUU WA SHULE DODOSO,429,N,GPS na Historical Picha,_A18. GPS ya shule (ichukuliwe mdadisi akiwa eneo la shule; ijazwe mwishoni)_altitude,365,0,210,100.0
+MKUU WA SHULE DODOSO,430,N,GPS na Historical Picha,_A18. GPS ya shule (ichukuliwe mdadisi akiwa eneo la shule; ijazwe mwishoni)_precision,365,0,193,100.0
+MKUU WA SHULE DODOSO,431,N,GPS na Historical Picha,Mwisho wa dodoso. Kagua majibu kwa kulinganisha na rejista na kumbukumbu rasmi kabla ya kutuma.,0,365,0,0.0
+MKUU WA SHULE DODOSO,432,N,GPS na Historical Picha,Piga picha kuthibitisha miundombinu yenye hali ya Wastani au Duni. Epuka kupiga picha za watoto bila kibali na kwa taratibu za ulinzi wa taarifa.,0,365,0,0.0
+MKUU WA SHULE DODOSO,433,N,GPS na Historical Picha,N. Picha ya vyumba vya madarasa vyenye hali ya Wastani/Duni,0,365,0,0.0
+MKUU WA SHULE DODOSO,434,N,GPS na Historical Picha,N. Picha ya vyumba vya madarasa vyenye hali ya Wastani/Duni_URL,0,365,0,0.0
+MKUU WA SHULE DODOSO,435,N,GPS na Historical Picha,N. Picha ya majengo ya vyoo vyenye hali ya Wastani/Duni,0,365,0,0.0
+MKUU WA SHULE DODOSO,436,N,GPS na Historical Picha,N. Picha ya majengo ya vyoo vyenye hali ya Wastani/Duni_URL,0,365,0,0.0
+MKUU WA SHULE DODOSO,437,N,GPS na Historical Picha,N. Picha ya nyumba za walimu zenye hali ya Wastani/Duni,0,365,0,0.0
+MKUU WA SHULE DODOSO,438,N,GPS na Historical Picha,N. Picha ya nyumba za walimu zenye hali ya Wastani/Duni_URL,0,365,0,0.0
+MKUU WA SHULE DODOSO,439,N,GPS na Historical Picha,N. Picha ya majengo mengine yenye hali ya Wastani/Duni,0,365,0,0.0
+MKUU WA SHULE DODOSO,440,N,GPS na Historical Picha,N. Picha ya majengo mengine yenye hali ya Wastani/Duni_URL,0,365,0,0.0
+MKUU WA SHULE DODOSO,441,N,GPS na Historical Picha,N. Picha ya changamoto nyingine ya miundombinu,0,365,0,0.0
+MKUU WA SHULE DODOSO,442,N,GPS na Historical Picha,N. Picha ya changamoto nyingine ya miundombinu_URL,0,365,0,0.0
+MKUU WA SHULE DODOSO,443,SYS,Kobo Metadata,_id,365,0,365,100.0
+MKUU WA SHULE DODOSO,444,SYS,Kobo Metadata,_uuid,365,0,365,100.0
+MKUU WA SHULE DODOSO,445,SYS,Kobo Metadata,_submission_time,365,0,361,100.0
+MKUU WA SHULE DODOSO,446,SYS,Kobo Metadata,_validation_status,0,365,0,0.0
+MKUU WA SHULE DODOSO,447,SYS,Kobo Metadata,_notes,0,365,0,0.0
+MKUU WA SHULE DODOSO,448,SYS,Kobo Metadata,_status,365,0,1,100.0
+MKUU WA SHULE DODOSO,449,SYS,Kobo Metadata,_submitted_by,0,365,0,0.0
+MKUU WA SHULE DODOSO,450,SYS,Kobo Metadata,__version__,365,0,3,100.0
+MKUU WA SHULE DODOSO,451,SYS,Kobo Metadata,_tags,0,365,0,0.0
+MKUU WA SHULE DODOSO,452,SYS,Kobo Metadata,meta/rootUuid,365,0,365,100.0
+MKUU WA SHULE DODOSO,453,SYS,Kobo Metadata,_index,365,0,365,100.0

@@ -1,0 +1,34 @@
+# Sensitive runtime data and credentials
+.env
+.env.*
+!.env.example
+!.env.local.example
+.private-cache/
+*.enc.json
+*.sqlite
+*.sqlite3
+storage/
+logs/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+coverage/
+.nyc_output/
+*.tgz
+# Exports and accidental local data snapshots
+*.sql
+*.sql.gz
+*.dump
+*.bak
+*.xlsx
+*.xls
+*submissions*.json
+*responses*.json
+*respondents*.json
+*.jsonl
